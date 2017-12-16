@@ -1,5 +1,6 @@
-// Cody Barnson
-// uva 10047
+// Problem : UVa 10047 - The Monocycle
+// Author  : Cody Barnson
+// Date    : Dec. 10, 2017
 #include <bits/stdc++.h>
 using namespace std;
 
