@@ -1,6 +1,8 @@
-// Problem : UVa 914 - Jumping Champion
-// Author  : Cody Barnson
-// Date    : Dec. 30, 2017
+// Problem    : UVa 914 - Jumping Champion
+// Time limit : 3.000 seconds
+// Difficulty : 3
+// Author     : Cody Barnson
+// Date       : Dec. 30, 2017
 #include <bits/stdc++.h>
 using namespace std;
 
