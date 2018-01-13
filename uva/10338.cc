@@ -1,6 +1,8 @@
-// Problem : UVa 10338 - Mischievous Children
-// Author  : Cody Barnson
-// Date    : Dec. 16, 2017
+// Problem    : UVa 10338 - Mischievous Children
+// Time limit : 3.000 seconds
+// Difficulty : 2
+// Author     : Cody Barnson
+// Date       : Dec. 16, 2017
 #include <bits/stdc++.h>
 using namespace std;
 

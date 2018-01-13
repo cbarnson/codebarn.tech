@@ -1,6 +1,8 @@
-// Problem : UVa 10047 - The Monocycle
-// Author  : Cody Barnson
-// Date    : Dec. 10, 2017
+// Problem    : UVa 10047 - The Monocycle
+// Time limit : 3.000 seconds
+// Difficulty : 3
+// Author     : Cody Barnson
+// Date       : Dec. 10, 2017
 #include <bits/stdc++.h>
 using namespace std;
 

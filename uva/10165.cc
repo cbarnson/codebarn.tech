@@ -1,6 +1,8 @@
-// Problem : UVa 10165 - Stone Game, Difficulty: Lev 3
-// Author  : Cody Barnson
-// Date    : Dec. 20, 2017
+// Problem    : UVa 10165 - Stone Game
+// Time limit : 3.000 seconds
+// Difficulty : 3
+// Author     : Cody Barnson
+// Date       : Dec. 20, 2017
 #include <bits/stdc++.h>
 using namespace std;
 
